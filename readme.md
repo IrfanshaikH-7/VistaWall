@@ -8,7 +8,7 @@ VistaWall provides a curated collection of stunning wallpapers sourced from the 
 
 ## Demo
 
-Check out this YouTube video to see VistaWall in action: [VistaWall Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+Check out this YouTube video to see VistaWall in action: [VistaWall Demo](https://youtu.be/sKim7xuKhaU)
 
 ## Tech Stack
 
